@@ -1,0 +1,39 @@
+.about{
+    margin: 0px 30px;
+}
+.pic{
+    margin: 0px 30px;
+}
+.textBox{
+    padding: 0px 30px;
+    font-family: Montserrat, sans-serif;
+}
+body {
+    background-color: var(--bg-gray);
+    border-radius: 2px;
+}
+.container{
+    width: 100%;
+}
+.interests{
+    margin: 0px 30px;
+}
+.skills{
+    margin: 0px 30px;
+    }
+.welcome{
+    font-family: Ubuntu, 'Times New Roman', Times, serif;
+}
+.about{
+    font-family: Montserrat, sans-serif;
+}
+.new{
+    font-family: 'Abel', sans-serif;
+}
+.con{
+    margin: 20px 200px;
+    padding: 10px 200px;
+}
+.logo{
+    margin: 20px 20px 20px 20px;
+}
